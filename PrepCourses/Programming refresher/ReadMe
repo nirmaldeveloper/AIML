@@ -1,1 +1,4 @@
 
+Created a Savings Account class which inherits from Account class which inherits from Bank class, all the details are hard coded for each class blueprint and only user prompts are used to get user details, other details like balance, minbalance,ifsc_code, branchname, branchlocation are hard coded. Savings Account class is initiated with 40 balance and 10 min balance
+
+The program takes user details and prompts for Balance, deposit or withdrawal 
